@@ -63,6 +63,10 @@ I'm continuously improving my skills in:
 * AI-assisted software development
 * Observability and deployment automation
 
+## My projects
+[Bounty Hunter](https://github.com/VictoriaAppDeveloper/bountyhunter)
+
+
 ## Contact
 
 * **Telegram:** [@trycatchfinallythrow](https://t.me/trycatchfinallythrow)
